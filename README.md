@@ -42,7 +42,7 @@ technical_background:
   
 Currently_learning: ["Mysql, machine learning, powerbi,Tableau"]
 2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["football", "Read Books", "WorkOut", "Video Games"]
+hobbies: ["football","Read Books","Video Games"]
 ```
 
 ---
