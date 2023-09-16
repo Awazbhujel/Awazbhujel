@@ -60,5 +60,3 @@ hobbies: ["football","Read Books","Video Games"]
 
 </p>
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikesh80&show_icons=true&locale=en&layout=compact" alt="awaz" /></p>
