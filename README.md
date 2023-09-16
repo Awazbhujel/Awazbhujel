@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi there, I'm Awaz! 👋
+   Hi I'm Awaz! 👋
 
 Welcome to my GitHub profile! I'm an aspiring Data Scientist with a strong enthusiasm for data-driven solutions and making a positive impact through data analysis.
 
@@ -59,5 +59,6 @@ hobbies: ["football","Read Books","Video Games"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" />
 
 </p>
-
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikesh80&show_icons=true&locale=en&layout=compact" alt="awaz" /></p>
