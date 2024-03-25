@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm an aspiring Data Scientist with a strong enthu
 
 - 🔭 I’m currently pursuing a degree in  Bachelor of Computer Applications with a focus in Programming Language and Specialization in Data analytics.
 - 🌱 I’m constantly learning and working on personal data projects to enhance my data skills.
-- 💬 Ask me about data analysis, statistics, and machine learning techniques.
 - ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
 
 ```yaml
