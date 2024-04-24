@@ -1,7 +1,7 @@
 <h1 align="center">
-   Hi I'm Awaz! 👋
+   Hi Namaste I'm Awaz! 👋
 
-Welcome to my GitHub profile! I'm an aspiring Data Scientist with a strong enthusiasm for data-driven solutions and making a positive impact through data analysis.
+   I'm an aspiring Data Scientist with a strong enthusiasm for data-driven solutions and making a positive impact through data analysis.
 
 </h1>
 
