@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi Namaste I'm Awaz! 👋
+   Hi  I'm Awaz! 👋
 
    I'm an aspiring Data Scientist with a strong enthusiasm for data-driven solutions and making a positive impact through data analysis.
 
