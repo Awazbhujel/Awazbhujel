@@ -14,11 +14,6 @@
 </a>
 
 ## About Me
-
-- 🔭 I’m currently pursuing a degree in  Bachelor of Computer Applications with a focus in Programming Language and Specialization in Data analytics.
-- 🌱 I’m constantly learning and working on personal data projects to enhance my data skills.
-- ⚡ **Fun fact:** Zoologists are wrong. Not every ***Python*** is a snake.
-
 ```yaml
 name: Awaz Bhujel
 From : Biratnagar,Nepal
@@ -39,9 +34,6 @@ technical_background:
     "data visualization with Powerbi"
   ]
   
-Currently_learning: ["Mysql, machine learning, powerbi,Tableau"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["football","Read Books","Video Games"]
 ```
 
 ---
